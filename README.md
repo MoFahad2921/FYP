@@ -137,7 +137,6 @@ The notebook is designed to run smoothly on **Google Colab**.
 
 * Add neural network regression models
 * Hyperparameter tuning
-* Feature importance visualization
 * Real-world fuel burn dataset integration
 * Deployment as a SystemLink or dashboard service
 
@@ -145,7 +144,7 @@ The notebook is designed to run smoothly on **Google Colab**.
 
 ## Author
 
-Final Year Capstone Project
+Fahad Iqbal
 
 ---
 
